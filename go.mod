@@ -1,3 +1,3 @@
-module go_learn/file_operation
+module go_learn
 
 go 1.19

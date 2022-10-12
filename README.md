@@ -13,5 +13,3 @@
   # 应用
   source ~/.bash_profile
 ```
-
-
